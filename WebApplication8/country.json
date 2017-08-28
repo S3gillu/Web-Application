@@ -1,0 +1,12 @@
+[
+  {
+    "country_id": "1",
+    "country_name": "Afghanistan",
+    "state_name": "Delhi"
+  },
+  {
+    "country_name": "Åland Islands",
+    "country_id": "2"
+       "state_name": "Delhi2"
+  }
+]
